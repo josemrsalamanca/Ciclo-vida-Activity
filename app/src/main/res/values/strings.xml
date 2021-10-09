@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Actividades</string>
+    <string name="mensaje_main">Estoy en el main</string>
+    <string name="mensaje_menu">Estoy en menu</string>
+</resources>
